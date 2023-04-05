@@ -1,0 +1,25 @@
+
+
+version: 2
+
+sources:
+    - name: staging
+      #For bigquery:
+      database: ny-rides-mukesh
+
+      # For postgres:
+      #database: production
+
+      schema: trips_data_all
+
+      # loaded_at_field: record_loaded_at
+      tables:
+        - name: yellow_tripdata_non_partitoned
+        - name: external_yellow_tripdata
+        - name: fhv_partitioned_tripdata
+        - name: green_tripdata
+        - name: yellow_tripdata
+        - name: meets
+        - name: openpowerlifting
+         # freshness:
+           # error_after: {count: 6, period: hour}
