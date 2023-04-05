@@ -1,6 +1,7 @@
 # Powerlifting Meets Data Pipleine
 
 A data pipleline for batch processing of 2 CSV file (Open Power Lifting and Meets)
+
 Web --> Prefect --> GCS --> DBT --> BigQuery --> Looker Studio
 
 # Objective
