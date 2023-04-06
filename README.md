@@ -10,7 +10,7 @@ The project is intended to build a data pipeline for batch processing every week
 
 # Dataset
 
-"[Powerlifting dataset]""(https://www.kaggle.com/datasets/dansbecker/powerlifting-database/code?resource=download)" was downloaded from Kaggle that provides 2 csv data files where meetid is common to both files and can be used to join and integrate the fields to create one master file. Meets file provides the information about the events and the places where those events were organized. Open Powerlifting file provides the information on athletes, games they participated, ranking etc. 
+[Powerlifting dataset](https://www.kaggle.com/datasets/dansbecker/powerlifting-database/code?resource=download) was downloaded from Kaggle that provides 2 csv data files where meetid is common to both files and can be used to join and integrate the fields to create one master file. Meets file provides the information about the events and the places where those events were organized. Open Powerlifting file provides the information on athletes, games they participated, ranking etc. 
 
 # Tools and Technologies
 
