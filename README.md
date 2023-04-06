@@ -14,13 +14,13 @@ The project is intended to build a data pipeline for batch processing every week
 
 # Tools and Technologies
 
-Cloud - Google Cloud Platform
-Orchestration and Batch processing - Prefect
-Transformation - dbt
-Data Lake - Google Cloud Storage
-Data Warehouse - BigQuery
-Data Visualization - Looker Studio
-Language - Python
+*Cloud - Google Cloud Platform
+*Orchestration and Batch processing - Prefect
+*Transformation - dbt
+*Data Lake - Google Cloud Storage
+*Data Warehouse - BigQuery
+*Data Visualization - Looker Studio
+*Language - Python
 
 # Architecture
 
